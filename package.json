@@ -1,0 +1,19 @@
+{
+  "name": "hexo-filter-ignore-formula-rendering",
+  "version": "0.0.1",
+  "description": "Automatically add {%raw%} and {%endraw%} before and after the formula.",
+  "main": "index.js",
+  "repository": "TildenJ/hexo-filter-ignore-formula-rendering",
+  "bugs": {
+    "url": "https://github.com/TildenJ/hexo-filter-ignore-formula-rendering/issues"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "formula"
+  ],
+  "author": "Tilden Ji <j@tilden.cn> (https://itiandong.com)",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
